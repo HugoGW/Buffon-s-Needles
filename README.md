@@ -1,6 +1,3 @@
-# Buffon-s-Needles
-SImulation of the Buffon's Needle problem with a dynamical plot of the needle and a convergence of the value of pi
-
 # Buffon's Needle Simulation - π Estimation
 
 A highly optimized and parallelized implementation of the famous Buffon's needle problem for estimating the value of π through Monte Carlo simulation.
